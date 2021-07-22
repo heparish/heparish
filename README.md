@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heparish but you can call me Haley
 - 👀 I’m interested in web development and design, video games, and research.
-- 🌱 I’m currently learning node!
+- 🌱 I’m currently learning react!
 - 💞️ I’m looking to collaborate on something new and exciting
 - 📫 How to reach me - heparish@ucdavis.edu
 
